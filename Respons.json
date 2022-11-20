@@ -1,0 +1,16 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "title": "Paint the wall",
+      "description": "Please paint all the walls in white color",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "title": "Clean the site",
+      "description": "Please make sure you cleaned the construction site before leaving",
+      "checked": false
+    }
+  ]
+}
